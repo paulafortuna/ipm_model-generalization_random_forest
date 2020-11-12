@@ -12,9 +12,4 @@ The code is organized as follows:
 
 2020-10-21_dataset_ready_to_analyse.csv - The dataset that we achieved by following the code in the previous step of our pipeline. It contains the data about every SVM, fastText, BERT and ALBERT models we have from our previous experiments. 
 
-random_forest_analysis.py  - It is a script for running a Random Forest model on our dataset
-
-
-03_compute_model_performances.py - It is a script for computing Precision, Recall and F1 scores for every model.
-
-04_compute_F1_table.py - It is a script for summarizing the F1 scores in one csv that will then be used in our paper results.
+random_forest_analysis.py  - It is a script for running a Random Forest model on our dataset.
